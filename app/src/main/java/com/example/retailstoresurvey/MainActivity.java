@@ -6,6 +6,13 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
+/** Lets the customer choose a survey
+ * @author Trevor Williams
+ * @author Siarhei Herman
+ * @version 1.0
+ * @since 1.0
+ */
+
 public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
